@@ -2,7 +2,7 @@ import os
 import requests
 
 # Gemini API key (set as environment variable or hardcoded)
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "AIzaSyDbT0CEFM5JINvyR4hli6fbWNsrh5Ri_n0")
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "api key here ('_')")
 MISTRAL_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 
 # Function to get feedback from Gemini (named as Mistral)
