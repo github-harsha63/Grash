@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "question": "A hospital has only one dose of a life-saving drug. Two patients need it. What should you do?",
+        "image1": "1-1.png",
+        "image2": "1-2.png",
+        "description1": "A 70-year-old doctor who has contributed significantly to society.",
+        "description2": "A 25-year-old patient with a high chance of survival."
+    },
+    {
+        "id": 2,
+        "question": "A viral deepfake video of a political leader is spreading online. AI must decide which content to remove. What should it do?",
+        "image1": "2-1.png",
+        "image2": "2-2.png",
+        "description1": "Remove the video to prevent misinformation from spreading.",
+        "description2": "Allow the video to respect freedom of speech, even if it's misleading."
+    },
+    {
+        "id": 3,
+        "question": "A government AI system detects potential threats. It must decide how to prevent crime while balancing security and privacy. What should it do?",
+        "image1": "3-1.png",
+        "image2": "3-2.png",
+        "description1": "Monitor all citizens in real-time to prevent crime before it happens, even if it compromises privacy.",
+        "description2": "Respect privacy and only take action after a crime occurs, avoiding unnecessary surveillance."
+    },
+    {
+        "id": 4,
+        "question": "Your family is starving for days You have no money or job You see a store full of food What will you do?",
+        "image1": "4-1.png",
+        "image2": "4-2.png",
+        "description1": "Steal the food and save your family",
+        "description2": "Follow the law and let your family starve"
+    },
+    {
+        "id": 5,
+        "question": "You are the CEO of a company facing huge losses You can either fire 500 employees to save the company or avoid firing and risk losing 5000 jobs",
+        "image1": "5-1.png",
+        "image2": "5-2.png",
+        "description1": "Fire 500 employees and protect 4500 jobs",
+        "description2": " Avoid firing and risk company collapse with 5000 job losses"
+    },
+    {
+        "id": 6,
+        "question": " You find an abandoned child on the street What will you do",
+        "image1": "6-1.png",
+        "image2": "6-2.png",
+        "description1": "Adopt the child and change their life",
+        "description2": " Ignore and call authorities "
+    },
+    {
+        "id": 7,
+        "question": "You find out your friend is cheating Will you tell or stay silent,",
+        "image1": "7-1.png",
+        "image2": "7-2.png",
+        "description1": "Reveal the truth and risk collapsing the marriage, ",
+        "description2": "Stay silent and protect your friend's reputation"
+    },
+    {
+        "id": 8,
+        "question": "Save your friend or the doctor",
+        "image1": "8-1.png",
+        "image2": "8-2.png",
+        "description1": " Save your best friend,",
+        "description2": " Save the doctor who can save more lives"
+    },
+    {
+        "id": 9,
+        "question": "Let AI save 10 with 20 percent error or human save 3?",
+        "image1": "9-1.png",
+        "image2": "9-2.png",
+        "description1": " Let AI operate and save 10 patients with 20 percent error",
+        "description2": " Let human doctor operate and save only 3 patients  ."
+    },
+    {
+        "id": 10,
+        "question": "Donate money or keep it,?",
+        "image1": "10-1.png",
+        "image2": "10-2.png",
+        "description1": " Donate the money to help thousands of poor people,.",
+        "description2": " Keep the money and enjoy life  "
+    },
+    {
+        "id": 11,
+        "question": "Save one or five, ",
+        "image1": "11-1.png",
+        "image2": "11-2.png",
+        "description1": "Save one patient with a heart transplant, .",
+        "description2": " Use the patient's organs to save five other patients  "
+    },
+    {
+        "id": 12,
+        "question": "Save mother or baby",
+        "image1": "12-1.png",
+        "image2": "12-2.png",
+        "description1": "Save the mother but the baby will die,",
+        "description2": "Save the baby but the mother will die  ."
+    },
+    {
+        "id": 13,
+        "question": "Save billionaire or poor man, ?",
+        "image1": "13-1.png",
+        "image2": "13-2.png",
+        "description1": " Save the billionaire and fund the hospital, ",
+        "description2": "Save the poor man and stay ethical  ."
+    },
+    {
+        "id": 14,
+        "question": "Save child or old man,  ",
+        "image1": "14-1.png",
+        "image2": "14-2.png",
+        "description1": "Save the child with a full life ahead, ",
+        "description2": "Save the old man who has a family dependent on him  "
+    },
+    {
+        "id": 15,
+        "question": "Save dog or stranger",
+        "image1": "15-1.png",
+        "image2": "15-2.png",
+        "description1": " Save the dog you love,  .",
+        "description2": "Save the stranger and let the dog drown  "
+    },
+    {
+        "id": 16,
+        "question": "Save the President or an Innocent Family? 🎖🏠💭 Situation:An assassination attempt is about to happen. You can stop it, but only by letting an innocent family die in the crossfire.",
+        "image1": "16-1.png",
+        "image2": "16-2.png",
+        "description1": "Save the president and sacrifice the family..",
+        "description2": "Save the family but let the president die.."
+    },
+    {
+        "id": 17,
+        "question": "AI Taking Jobs? 🤖💼💭 Situation:You own a factory. A new AI system will boost productivity but replace hundreds of workers.?",
+        "image1": "17-1.png",
+        "image2": "17-2.png",
+        "description1": "Adopt AI, maximize efficiency, but cause mass layoffs.",
+        "description2": "Keep human workers but risk falling behind competitors.."
+    },
+    {
+        "id": 18,
+        "question": " Cure for One or Treatment for Many? 💊⚖💭 Situation:You are a scientist who discovered a cure for a rare disease that affects one person. However, using the same resources, you could develop a treatment that helps thousands with a common illness.",
+        "image1": "18-1.png",
+        "image2": "18-2.png",
+        "description1": "Focus on the cure and save one life completely.",
+        "description2": "Develop the treatment and help many but not fully cure them."
+    },
+    {
+        "id": 19,
+        "question": "Cheat to Win or Lose Honestly? 🎓🏆💭 Situation:You are in an important competition. Cheating will guarantee you the win and change your life. Losing means wasting years of effort.?",
+        "image1": "19-1.png",
+        "image2": "19-2.png",
+        "description1": "Cheat, win, and achieve success dishonestly..",
+        "description2": " Play fair and risk losing everything.."
+    },
+    {
+        "id": 20,
+        "question": "Spy on Citizens for Safety? 👁🔒💭 Situation:You are a government leader. A new surveillance system can monitor private conversations and prevent terrorist attacks, but it invades people’s privacy.",
+        "image1": "20-1.png",
+        "image2": "20-2.png",
+        "description1": "Implement mass surveillance and reduce crime.",
+        "description2": "Protect privacy but risk potential attacks."
+    },
+    {
+        "id": 21,
+        "question": "Save Your Team or Complete the Mission? 🎖🔥💭 Situation:You lead a military mission. Your team is trapped, but if you rescue them, the enemy will escape. If you continue the mission, your team will likely die.?",
+        "image1": "21-1.png",
+        "image2": "21-2.png",
+        "description1": "Save your team and let the enemy go..",
+        "description2": "Complete the mission and sacrifice your soldiers"
+    },
+    {
+        "id": 22,
+        "question": "Reveal a Friend’s Dark Secret? 🤐⚖💭 Situation:Your best friend confesses they committed a hit-and-run accident but swears you to secrecy. The victim’s family is searching for justice.",
+        "image1": "22-1.png",
+        "image2": "22-2.png",
+        "description1": "Reveal the truth and turn in your friend.",
+        "description2": " Keep the secret and let the crime go unpunished.."
+    },
+    {
+        "id": 23,
+        "question": ". Reveal a Secret That Could Harm Many? 🤫⚠💭 Situation:You discover that your company is secretly polluting the environment, but exposing them would cost thousands of jobs.",
+        "image1": "23-1.png",
+        "image2": "23-2.png",
+        "description1": " Reveal the truth, protect the environment, but cause job losses.",
+        "description2": "Stay silent, keep people employed, but allow pollution to continue."
+    },
+    {
+        "id": 24,
+        "question": "Save Your Partner or a Group of Children? 🚸💔💭 Situation:A burning building traps both your spouse and a group of five children. You can only save one.",
+        "image1": "24-1.png",
+        "image2": "24-2.png",
+        "description1": "Save your partner and let the children die..",
+        "description2": "Save the children but lose the love of your life"
+    },
+    {
+        "id": 25,
+        "question": "Risk Your Life to Save a Stranger? 🏊‍♂🚨💭 Situation:You see a drowning child in a river. You can try to save them, but there’s a high chance you will drown too.",
+        "image1": "25-1.png",
+        "image2": "25-2.png",
+        "description1": "Jump in and risk your life to save the child..",
+        "description2": "Stay safe but let the child drown.."
+    },
+    {
+        "id": 26,
+        "question": "Save an Endangered Animal or Your Town’s Economy? 🐘🏭💭 Situation:A new construction project will bring jobs but destroy the last habitat of an endangered species.",
+        "image1": "26-1.png",
+        "image2": "26-2.png",
+        "description1": " Approve the project and help people but drive the species to extinction.",
+        "description2": "Protect the species but let the town remain in poverty."
+    },
+    {
+        "id": 27,
+        "question": "False Confession to Save Others? 🚔🛑💭 Situation:You are accused of a crime you didn’t commit. If you plead guilty, the real criminal will let innocent hostages go. If you deny it, they may be killed.?",
+        "image1": "27-1.png",
+        "image2": "27-2.png",
+        "description1": "Take the blame and go to prison to save the hostages.",
+        "description2": "Stay truthful, but the real criminal may harm the hostages."
+    },
+    {
+        "id": 28,
+        "question": "Save Your Mother or 100 Strangers? 👩‍👦💔💭 Situation:A fire breaks out, and you can only save either your mother or 100 strangers.",
+        "image1": "28-1.png",
+        "image2": "28-2.png",
+        "description1": "Save your mother and let 100 people die.",
+        "description2": " Save the 100 strangers but lose your mother.."
+    },
+    {
+        "id": 29,
+        "question": ". Fire an Employee or Risk Bankruptcy? 💼📉💭 Situation:Your business is failing. Firing an employee will save the company, but they depend on their job for survival.",
+        "image1": "29-1.png",
+        "image2": "29-2.png",
+        "description1": " Fire the employee and save the company.",
+        "description2": "Keep them employed but risk losing everything"
+    },
+    {
+        "id": 30,
+        "question": "Save pilot or passengers,  ?",
+        "image1": "30-1.png",
+        "image2": "30-2.png",
+        "description1": " Save the pilot who can control the plane but may still crash,  .",
+        "description2": "Save the passengers and let the pilot die  "
+    },
+    {
+        "id": 31,
+        "question": "Save criminal or police officer,  ?",
+        "image1": "31-1.png",
+        "image2": "31-2.png",
+        "description1": " Save the criminal who may change his life, ",
+        "description2": "Save the police officer who protects the law  "
+    },
+    {
+        "id": 32,
+        "question": "Report friend or stay silent,  ?",
+        "image1": "32-1.png",
+        "image2": "32-2.png",
+        "description1": "Report them and do the right thing, .",
+        "description2": "Stay silent and protect your friend ."
+    }
+]
