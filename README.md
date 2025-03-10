@@ -71,7 +71,47 @@ In today's world, ethical decision-making is crucial in both personal and profes
      ```bash
      export MISTRAL_API_KEY=your_api_key_here
      ```
+***Here we used Gemini ai in main.py  , to use mistral : main.py should be :-***
+   ```bash
+   import os
+import requests
 
+# Mistral API key (set as environment variable or hardcoded)
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "your_actual_mistral_api_key_here")
+MISTRAL_API_URL = "https://api.mixtral.ai/v1/generate"  # Hypothetical URL; check official docs for exact endpoint
+
+# Function to get feedback from Mistral
+def get_mistral_feedback(prompt):
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {MISTRAL_API_KEY}"  # Mistral typically uses Bearer token auth
+    }
+    data = {
+        "prompt": prompt,  # Mistral's API likely expects a "prompt" field
+        "max_tokens": 50,  # Adjust based on Mistral's parameter names and defaults
+        "temperature": 0.7  # Optional: control creativity, adjust as needed
+    }
+    response = requests.post(MISTRAL_API_URL, headers=headers, json=data)
+    if response.status_code == 200:
+        # Adjust based on Mistral's actual response structure
+        return response.json()["choices"][0]["text"]  # Hypothetical; check Mistral docs
+    else:
+        print(f"Error: Status Code {response.status_code}")
+        print(f"Response: {response.text}")
+        return "Failed to get feedback from Mistral."
+
+
+   ```
+To run with gemini : With same main.py in repository, Just write your gemini api key at "your_api_key_here" below :  (to use mistral chnage main.py and write mistral-api-key in below command)
+   - **Windows**:
+     ```bash
+     set MISTRAL_API_KEY=your_api_key_here
+     ```
+   - **Linux/Mac**:
+     ```bash
+     export MISTRAL_API_KEY=your_api_key_here
+     ```
+     
 ### **Running the Project**
 1. Start the backend server:
    ```bash
@@ -110,10 +150,10 @@ In today's world, ethical decision-making is crucial in both personal and profes
 
 ## **Team Members**
 This project was developed by a team of 5 members:
-1. **Member 1**: Role (e.g., Frontend Developer)
-2. **Member 2**: Role (e.g., Backend Developer)
-3. **Member 3**: Role (e.g., AI Integration Specialist)
-4. **Member 4**: Role (e.g., UI/UX Designer)
+1. Vemula Harshavardhan Reddy: Role (e.g., Frontend Developer)
+2. Hemanth: Role (e.g., Backend Developer)
+3. Ganesh: Role (e.g., AI Integration Specialist)
+4. Rushikesh: Role (e.g., UI/UX Designer)
 5. **Member 5**: Role (e.g., Project Manager)
 
 ---
